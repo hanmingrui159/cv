@@ -1,0 +1,16 @@
+img {
+    height: auto; 
+    width: auto; 
+    max-width: 180px; 
+}
+
+body {
+    background-color: #D6E4E5;
+}
+
+hr {
+    border-color: rgba(128, 128, 128, 0.495);
+    border-style:dotted none none none;
+    border-width: 5px;
+    width:5%;
+}
