@@ -2,6 +2,7 @@ img {
     height: auto; 
     width: auto; 
     max-width: 180px; 
+    box-shadow: -5px 5px teal;
 }
 
 h1 {
